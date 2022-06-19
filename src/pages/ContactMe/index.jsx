@@ -33,7 +33,7 @@ export default class ContactMe extends Component {
               <h6>100 Southview Cres <ImArrowRight/></h6>
             </article>
           </div>
-          {/* <Themap/>  */}
+          <Themap/> 
         </div>
       </div>    
     )
